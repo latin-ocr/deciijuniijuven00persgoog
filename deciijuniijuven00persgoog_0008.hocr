@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./deciijuniijuven00persgoog_0008.png"; bbox 0 0 596 971; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 75 71 517 198">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 75 71 517 198">
+     <span class='ocr_line' id='line_1_1' title="bbox 75 71 517 198; baseline 0 773"><span class='ocrx_word' id='word_1_1' title='bbox 75 71 517 198; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 98 214 489 240">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 98 214 489 240">
+     <span class='ocr_line' id='line_1_2' title="bbox 98 214 489 240; baseline -0.005 0"><span class='ocrx_word' id='word_1_2' title='bbox 98 215 184 240; x_wconf 86' lang='lat' dir='ltr'>DECII</span> <span class='ocrx_word' id='word_1_3' title='bbox 212 216 295 240; x_wconf 91' lang='lat' dir='ltr'>JUNII</span> <span class='ocrx_word' id='word_1_4' title='bbox 323 214 489 239; x_wconf 86' lang='lat' dir='ltr'><strong>JUVENALIS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 153 261 434 367">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 153 261 434 367">
+     <span class='ocr_line' id='line_1_3' title="bbox 153 261 434 313; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 153 289 180 313; x_wconf 84' lang='lat' dir='ltr'><strong>A.</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 204 261 305 313; x_wconf 59' lang='lat' dir='ltr'><strong>PERSH</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 327 288 434 313; x_wconf 86' lang='lat' dir='ltr'>FLACCI</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 233 342 357 367; baseline -0.008 0"><span class='ocrx_word' id='word_1_8' title='bbox 233 342 357 367; x_wconf 86' lang='lat' dir='ltr'><strong>SATIRAE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 237 411 359 422">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 237 411 359 422">
+     <span class='ocr_line' id='line_1_5' title="bbox 237 411 359 422; baseline -0.008 0"><span class='ocrx_word' id='word_1_9' title='bbox 237 412 257 422; x_wconf 71' lang='lat' dir='ltr'><strong>tx</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 267 411 359 421; x_wconf 70' lang='lat' dir='ltr'><strong>mmmmm</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 169 442 422 464">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 169 442 422 464">
+     <span class='ocr_line' id='line_1_6' title="bbox 169 442 422 464; baseline -0.008 -3"><span class='ocrx_word' id='word_1_11' title='bbox 169 445 190 461; x_wconf 83' lang='lat' dir='ltr'><strong>A.</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 201 444 218 461; x_wconf 86' lang='lat' dir='ltr'><strong>J.</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 231 443 365 464; x_wconf 79' lang='lat' dir='ltr'><strong>MAGLEANE,</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 377 442 422 460; x_wconf 66' lang='lat' dir='ltr'><strong>AJK.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 208 552 426 736">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 208 552 426 736">
+     <span class='ocr_line' id='line_1_7' title="bbox 208 552 426 736; baseline 0 235"><span class='ocrx_word' id='word_1_15' title='bbox 208 552 426 736; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
